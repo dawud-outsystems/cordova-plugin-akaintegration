@@ -1,0 +1,12 @@
+apply plugin: 'com.google.gms.google-services'
+
+repositories {
+    mavenCentral()
+    jcenter()
+}
+
+dependencies {
+  implementation 'com.akamai.android:aka-mpulse:21.12.2'
+  implementation 'com.akamai.android:aka-map:21.12.14'
+  implementation 'com.google.firebase:firebase-messaging:20.1.0'
+}
