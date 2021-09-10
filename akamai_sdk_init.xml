@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <com_akamai_sdk_init>
-<com_akamai_map_license_key>Add MAP License Key</com_akamai_map_license_key>
-<com_akamai_mpulse_license_key>Add Mpulse License Key</com_akamai_mpulse_license_key>
-<com_akamai_map_segments>Add MAP segments</com_akamai_map_segments>
+<com_akamai_map_license_key>ebb0dfe49b69b2e45cd94e39833f89a50b18663113837e49518c94b5c3e6af4f</com_akamai_map_license_key>
+<!-- <com_akamai_mpulse_license_key>Add Mpulse License Key</com_akamai_mpulse_license_key> -->
+<com_akamai_map_segments>OutSystemsSegment</com_akamai_map_segments>
 </com_akamai_sdk_init>
