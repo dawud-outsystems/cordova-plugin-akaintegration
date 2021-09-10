@@ -1,0 +1,16 @@
+{
+  "name": "cordova-plugin-akaIntegration",
+  "version": "0.0.1",
+  "description": "A custom Cordova plugin to integrate AkaCommon/MAP/mPulse SDKs",
+  "cordova": {
+    "id": "cordova-plugin-akaIntegration",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova"
+  ],
+  "author": "",
+  "license": "MIT"
+}
